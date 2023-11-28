@@ -1,11 +1,11 @@
 # Android Uygulamalarım
 
-## TimerCompose
 
 
-![Timer](https://github.com/pekeramazan/pekeramazan/blob/main/images/timer.png)
+<a href="https://github.com/pekeramazan/TimerCompose" title="Timer Compose">
+  <img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/timer.png" width="250" height="400" alt="Timer Compose">
+</a>
 
-## CalculatorCompose
-
-
-![Calculator](https://github.com/pekeramazan/pekeramazan/blob/main/images/calculator.png)
+<a href="https://github.com/pekeramazan/CalculatorCompose" title="Calculator Compose">
+  <img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/calculator.png" width="250" height="400" alt="Calculator Compose">
+</a>
