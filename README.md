@@ -3,9 +3,9 @@
 ## TimerCompose
 
 
-![Timer](https://github.com/pekeramazan/pekeramazan/images/timer.png)
+![Timer](https://github.com/pekeramazan/pekeramazan/blob/main/images/timer.png)
 
 ## CalculatorCompose
 
 
-![Calculator](ttps://github.com/pekeramazan/pekeramazan/images/calculatır.png)
+![Calculator](https://github.com/pekeramazan/pekeramazan/blob/main/images/calculator.png)
