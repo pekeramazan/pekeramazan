@@ -1,11 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://github.com/pekeramazan/TimerCompose" title="Timer Compose">
-      <img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/timer.png" width="200" height="400" alt="Timer Compose" style="margin: auto;">
-    </a>
 
-    <a href="https://github.com/pekeramazan/CalculatorCompose" title="Calculator Compose">
-      <img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/calculator.png" width="200" height="400" alt="Calculator Compose" style="margin: auto;">
-    </a>
-  </div>
-</div>
+<a href="https://github.com/pekeramazan/TimerCompose"><img src="https://github.com/pekeramazan/TimerCompose" alt="TimerCompose" width="200" height="400"/></a>
+<a href="https://github.com/pekeramazan/CalculatorCompose"><img src="https://github.com/pekeramazan/CalculatorCompose" alt="CalculatorCompose" width="200" height="400"/></a>
