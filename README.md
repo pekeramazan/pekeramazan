@@ -1,5 +1,5 @@
 
-<a href=""><img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/headerpng" alt="header"  style="max-width: 100%; height: auto;"  /></a>
+<a href=""><img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/header.png" alt="header"  style="max-width: 100%; height: auto;"  /></a>
 <a href="https://github.com/pekeramazan/Dictionary">
     <img src="https://github.com/pekeramazan/Dictionary/blob/main/dictionary-showcase.png" alt="Dictionary" style="max-width: 100%; height: auto;" />
 </a>
