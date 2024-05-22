@@ -1,4 +1,3 @@
-<div style="background-color: black; padding: 20px;">
 
 <a href=""><img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/header.png" alt="header" style="max-width: 100%; height: auto;" /></a>
 
@@ -20,5 +19,3 @@
 <a href="https://github.com/pekeramazan/TimerCompose">
     <img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/timer-ui.png" alt="TimerCompose" style="max-width: 100%; height: auto;" />
 </a>
-
-</div>
