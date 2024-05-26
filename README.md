@@ -1,6 +1,10 @@
 
 <a href=""><img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/header.png" alt="header" style="max-width: 100%; height: auto;" /></a>
 
+<a href="https://github.com/pekeramazan/CryptoCurrency">
+    <img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/crypto-currency.png" alt="Dictionary" style="max-width: 100%; height: auto;" />
+</a>
+
 <a href="https://github.com/pekeramazan/Dictionary">
     <img src="https://github.com/pekeramazan/pekeramazan/blob/main/images/dictionary.png" alt="Dictionary" style="max-width: 100%; height: auto;" />
 </a>
